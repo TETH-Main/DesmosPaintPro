@@ -1,6 +1,10 @@
 /*
- * made by @TETH_Main
+ *made by @TETH_Main
  *
+ *
+ * Latest v1.0b1 https://www.desmos.com/calculator/ecrc6rtwan
+ *
+ * v1.0b1 https://www.desmos.com/calculator/ecrc6rtwan
  */
 
  if (window.location.href.includes("desmos.com/calculator")) {
